@@ -1,9 +1,4 @@
 # LearningHumanoidWalking
-
-Code for the paper:  
-[**Learning Bipedal Walking On Planned Footsteps For Humanoid Robots**](https://arxiv.org/pdf/2207.12644.pdf)  
-[Rohan P. Singh](https://rohanpsingh.github.io), [Mehdi Benallegue](https://unit.aist.go.jp/jrl-22022/en/members/member-benalleguem.html), [Mitsuharu Morisawa](https://unit.aist.go.jp/jrl-22022/en/members/member-morisawa.html), [Rafael Cisneros](https://unit.aist.go.jp/jrl-22022/en/members/member-cisneros.html), [Fumio Kanehiro](https://unit.aist.go.jp/jrl-22022/en/members/member-kanehiro.html)
-
 ## Code structure:
 A rough outline for the repository that might be useful for adding your own robot:
 ```
@@ -63,15 +58,4 @@ $ PYTHONPATH=.:$PYTHONPATH python scripts/debug_stepper.py --path <path_to_exp_d
 *Walking on curves:*  
 ![curve](https://user-images.githubusercontent.com/16384313/180697266-7b44beb3-38bf-4494-b568-963919dc1106.gif)
 
-
-## Citation
-If you find this work useful in your own research:
-```
-@article{singh2022learning,
-  title={Learning Bipedal Walking On Planned Footsteps For Humanoid Robots},
-  author={Singh, Rohan Pratap and Benallegue, Mehdi and Morisawa, Mitsuharu and Cisneros, Rafael and Kanehiro, Fumio},
-  journal={arXiv preprint arXiv:2207.12644},
-  year={2022}
-}
-```
 
