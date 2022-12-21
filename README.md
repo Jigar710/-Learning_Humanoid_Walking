@@ -1,9 +1,9 @@
 # LearningHumanoidWalking
 
-##Course : PC503 - Programming Lab
-##Course instructor : Prof. Tapaskumar Maiti
+## Course : PC503 - Programming Lab
+## Course instructor : Prof. Tapaskumar Maiti
 
-##Team Members :
+## Team Members :
 1) Jigar Shekhat - 202211004
 2) Man Desai - 202211040
 3) Vatsal Shingala - 202211073
